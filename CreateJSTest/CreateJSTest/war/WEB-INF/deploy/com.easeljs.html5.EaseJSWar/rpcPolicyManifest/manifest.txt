@@ -1,0 +1,2 @@
+# Module com.easeljs.html5.EaseJSWar
+# RPC service class, partial path of RPC policy file
